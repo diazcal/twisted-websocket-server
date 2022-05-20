@@ -3,6 +3,11 @@ A websocket server PoC built with Twisted and Autobahn.
 
 Run the main.py and connect a client via Simple Web Socket Client or similar to localhost:9998
 
+## Tech stack
+- twisted 
+- autobahn
+- jsonschema
+
 ## Schemas
 A client can send:
 
